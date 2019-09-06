@@ -16,7 +16,7 @@ The file dataset.csv contains the dataset that we used for relation extraction. 
 
 * Label: The label of the sentence, i.e. Good-CoM or Bad-CoM
 
-
+# Citation
 
 Please cite the following paper:
 
