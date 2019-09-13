@@ -20,6 +20,4 @@ The file dataset.csv contains the dataset that we used for relation extraction. 
 
 Please cite the following paper:
 
-PPPred: Classifying Protein-phenotype Co-mentions Extracted from Biomedical Literature
-Morteza Pourreza Shahri, Mandi M. Roe, Gillian Reynolds, Indika Kahanda
-bioRxiv 654475; doi: https://doi.org/10.1101/654475
+Morteza Pourreza Shahri, Gillian Reynolds, Mandi Marie Roe, and Indika Kahanda. 2019. PPPred: Classifying Protein-phenotype Co-mentions Extracted from Biomedical Literature. In Proceedings of the 10th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB '19). ACM, New York, NY, USA, 414-422. DOI: https://doi.org/10.1145/3307339.3342167
